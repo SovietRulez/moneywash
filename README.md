@@ -1,2 +1,2 @@
 # moneywash
-Thi release is for QBCore framework
+This release is for QBCore framework
